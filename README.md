@@ -1,1 +1,5 @@
 # CSC170
+Week 12:
+  - Updated the Endings in the flowchart.
+  - Created setting for the world
+  - Set movement for the Barista
